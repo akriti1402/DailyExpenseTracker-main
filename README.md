@@ -43,8 +43,11 @@ The app displays total expenses for the day, week, and month, provides filter op
    cd daily-expense-tracker
    
 2.Open the project in Android Studio.
+
 3.Sync Gradle and resolve dependencies.
+
 4.Connect an Android device or start an emulator.
+
 5.Click Run ▶
 
 
