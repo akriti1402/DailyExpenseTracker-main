@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DailyExpenseTracker</string>
+    <string name="no_expenses">No expenses</string>
+    <string name="total_amount">Total: %s</string>
+    <string name="error_loading_expenses">Failed to load expenses</string>
+    <string name="no_expenses_message">No expenses recorded yet\nTap + to add your first expense</string>
+    <string name="expense_deleted">Expense deleted</string>
+    <string name="undo">Undo</string>
+    </resources>
